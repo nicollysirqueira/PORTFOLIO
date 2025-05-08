@@ -101,8 +101,8 @@ body {
 }
 
 .rodape {
-    color: var(--cor-secundaria);
-    background-color: var(#9D32D9);
+    color: var(--fonte-segundaria);
+    background-color: var(--cor-terciaria);
     text-align: center;
     font-family: var(--fonte-segundaria);
     font-size: 24px;
