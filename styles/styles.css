@@ -18,11 +18,11 @@
 body {
     box-sizing: border-box;
     background-color: var(--cor-primaria);
-    color: var(--cor-secundaria)
+    color: var(--cor-secundaria);
 }
 
 .titulo_destaque {
-    color: var(--cor-terciaria)
+    color: var(--cor-terciaria);
 }
 
 .cabecalho {
